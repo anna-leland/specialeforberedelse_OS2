@@ -5,28 +5,3 @@
       B-->D;
       C-->D;
 ```
-```
-mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       OS2Forms efterårsrelease 2025
-    excludes    weekends
-    tickInterval 1week
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
-
-    section Scope af næste release
-    Individuel forberedelse                        :des1, 2025-08-04, 2025-08-13
-    Forberedelsesmøde i koordinations              :active, milestone, a1, 2025-08-14, 0d
-    Belcom forbereder forslag til forbedringer     :2025-08-11, 2025-08-27
-    1. Møde med Belcom                             :crit, milestone, a2, 2025-08-27, 0d
-    Belcom konsoliderer og estimerer               :des3, after a2,2025-09-17
-    Releaseplan, incl estimat og detailplan leveret:crit,milestone, a3, 2025-09-15, 0d
-    2. scopint møde med Bellcom                    :crit, milestone, a4, 2025-09-17, 0d
-    koordinationsgtuppen evaluerer releaseplanen   :des5, after a4, 2025-09-30
-    Releaseplan er endelig godkendt                :crit, milestone, a5,2025-10-01, 0d
-    Bellcom og ITK klargør releasen i test         :des6, after a5, until a6
-    Kickoffpå test (møde)                          :milestone, a6,2025-10-29, 0d
-    Test af efterårsreleasn                        :des6, after a6, 2025-11-14
-    Releasen gennemføres                           :des7, 2025-11-14, 2025-11-20
-    Releasen er afsluttet                          :crit, milestone, a10,2025-11-20, 0d
-```
