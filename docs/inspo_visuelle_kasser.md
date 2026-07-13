@@ -5,48 +5,25 @@
 %% Mermaid documentation for timeline syntax: https://mermaid.js.org/syntax/timeline.html
 %%{init: { 'theme': 'forest', 'timeline': {'disableMulticolor': true}}}%%
 timeline
-    section Afklaring
-      Q2 -Q4 2025 : Beskrive formål, vision og mission
-                   : Aftal betingelser og spilleregler for overdragelse
-                   : Analyser AS IS situationen
-                   : Identificer væsentligste Gab, fejl og mangler i kodebase
-                   : Idnetificer kritiske forskelle i forvaltningspraksis
-                   : Identificer lavt hængende frugter & mulige workarrounds
-                   : Identificer og dokument core elementerne i kildekoden
-                   : Udpeg en acting product owner 
-                   : Udarbejd strategi for prioriterede tilpasninger
+    section Kontekst og baggrund for OS2
+      August 2026  : Officiel start 12. august
+                  : Aflv. 'hvem er jeg' (uge 33)
+                   : OS2 introduktion (uge 33)
+                   : Onboarding og opstart (uge 34)
+                   : Rapport: "Kontekst og baggrund for OS2" (uge 35)
+                   : Vilde Teknologier (uge 35)
       
-    section Forberedelse
-      Q1 2026      : Etabler styrende organer i produktsamarbejded
-                   : Dokumenter produktets kontrakt sturktur og udarbejd aftaler for 2026
-                   : Overdrag strategisk planlægning til produktfællesskabet
-                   : Stabiliser Kodebasen og dokumenter udestående fejl og mangler
-                   : Dokumenter fremtidig ansvar for alle elementer i kildekoden
-                   : Planlæg en gradvis revision af forvaltningspraksis 
-                   : aftal regler for release styring og kode review
-                   : Dokumenter ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
-                   : påbegynd udvidelse af produktfællesskabet
-                   : Udbred kendskabet til løsningen
+    section dddd
+      September 2026 : Aflv. rapport "Kontekst og baggrund for OS2" (uge 36)
+                   : XXX
 
-    section Overdragelse
-     Q2 2026  : Overdrag det juridiske og økonomiske ansvar for Core elementerne
-              : Udarbejd en strategi for vedligehold og videreudvikling
-              : Konsolider kildekoden i OS2's repositories
-              : Implementer Opensource best praksis og standarder
-              : Revider produktets contribution guideline
-              : Revider forvaltningsorganisationen, persongalleri, roller og ansvar. 
-              : Indfør separation of duity igennem hele forsyningskædem
-    section Etablering
-     Q3 2026 : Evaluer resultatet af overdragelsesperioden og håndtere identificerede fejl og mangler
-              : Udarbejd standardiserede kontrakter for fremtidig udvikling og vedligehold af Kildekodem
-              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar.
-              : udpeg coreteam & github maintainers
-              : Igangsæt automatisering af releaseprocessen og bugfix 
+    section Oktober
+     Q2 2026  : XXX
+
+    section November
+     Q3 2026 : xxx
 
 
-    section Udfasning
-    Q4 2026 : Evaluer handoverprodessen og identificer forbedringer
-              : Luk projektet ned
-              : Udfas alle former fo særstatus og midlertidige rutiner. 
-              : igangsæt målrettet markedsføring
+    section December
+    Q4 2026 : xxxx
 ```
