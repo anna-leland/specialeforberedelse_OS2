@@ -90,6 +90,4 @@ timeline
     section Vilde Teknologier
      fredag d.28  : Bartender vagt m. Anna-Lis kl.13-19
 
-
-    
 ```
