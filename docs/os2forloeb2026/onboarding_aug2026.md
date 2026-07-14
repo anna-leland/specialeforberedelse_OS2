@@ -1,7 +1,5 @@
 # Annas Onboarding
 
-## Planlagte sessioner
-
 ## Gameplans uge for uge
 
 #### Uge 33 - Annas onboarding 
@@ -95,5 +93,8 @@ timeline
 
     section Vilde Teknologier
      fredag d.28  : Bartender vagt m. Anna-Lis kl.13-19
+
+## Planlagte sessioner
+
 
 ```
