@@ -42,9 +42,11 @@ timeline
 %% Mermaid documentation for timeline syntax: https://mermaid.js.org/syntax/timeline.html
 %%{init: { 'theme': 'forest', 'timeline': {'disableMulticolor': true}}}%%
 timeline
-    section Open-source og åbne leverance modeller
-      mandag d.17  : Open-source og digi suverænitet i DK kontekst v. Rasmus (10.30-11.30) 
+    section Open-source, arbejdsgange og leverancemodeller
+      mandag d.17  : Årshjul, arbejdsgange og processer v. Agnete (kl.9-10)
+                  : Open-source og digi suverænitet i DK kontekst v. Rasmus (10.30-11.30) 
                   : Open-source methodologi og praksis v. Jan (kl.13-15)
+
       
     section Flue på væg - Overdragelse af adm. processer
       tirsdag d.18 : Fysisk workshop m OS2forms v. Anna-Lis (kl.9-15)
