@@ -1,9 +1,10 @@
 # Specialeforberedende forløb hos OS2 (2026)
 
 Dette repository dokumenterer mit specialeforberedende forløb hos OS2 som en del af kandidatuddannelsen i Informationsvidenskab på Aarhus Universitet (også kaldet _"projektorienteret forløb"_).
+
 Formålet er at samle noter, analyser, observationer og løbende resultater med henblik på et efterfølgende specialesamarbejde med OS2 i foråret 2027.
 
-## Formål
+## Fokus og opgaver i OS2
 
 I efteråret 2026 bliver mit arbejde i OS2-sekretariatet:
 
