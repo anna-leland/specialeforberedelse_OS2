@@ -21,5 +21,5 @@ Til sammen vil alle 1:1-møderne bidrage til en kortlægning af sekretariaets sa
 
 ***
 Links til planer for:
-- [Gameplan for Annas specialeforbedredende forløb v. OS2 i efteråret 2026](https://github.com/anna-leland/specialeforberedelse/blob/main/docs/os2forloeb2026/onboardingaug2026.md)
-- [Annas onboarding i OS2 sekretariaet for august 2026](https://github.com/anna-leland/specialeforberedelse/blob/main/docs/os2forloeb2026/gameplan2026.md)
+- [Gameplan for Annas specialeforbedredende forløb v. OS2 i efteråret 2026](https://github.com/anna-leland/specialeforberedelse/blob/main/docs/os2forloeb2026/gameplan2026.md)
+- [Annas onboarding i OS2 sekretariaet for august 2026](https://github.com/anna-leland/specialeforberedelse_OS2/blob/main/docs/os2forloeb2026/onboarding_aug2026.md)
