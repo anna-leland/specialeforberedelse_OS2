@@ -57,7 +57,7 @@ timeline
  
 
 section GitHub & GitHub Pages 
-      torsdag d.20 : Konceptuel intro til Git m. Anna-Lis og Jan (kl.9-11.30)
+      torsdag d.20 : Konceptuel intro til Git m. Anna-Lis og Jan (kl.9-10.30)
                    : GitHub Pages Pixi-bog m. Lisbeth (kl.12-13.30)
                    : Automatiserede Git processer m. Jan (kl.14-15.30)
 
