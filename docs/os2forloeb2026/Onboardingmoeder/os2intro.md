@@ -1,4 +1,4 @@
-# Introduktion til OS2 og governance modellen v. Rasmus (kl.14-15.30)
+# Introduktion til OS2 og governance modellen v. Rasmus (12. august kl.14-15.30)
 
 Formål: Forstå hvilken størrelse OS2 er, dens rødder, visoner og missioner. Hvorfor og hvordan OS2 er relevant. Hvad synes du er vigtigt for at jeg forstår hvad OS2 er?
 
