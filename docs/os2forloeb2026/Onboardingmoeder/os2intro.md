@@ -14,4 +14,8 @@ Spørgsmål:
 - Hvad er styrkerne og svaghederne i OS2s organisering?
 - Gennemgang af governance modellen på et konceptuelt niveau (gem selv-evaluering til senere). 
 Hvorfor har man en governance model? 
+- Hvad har ændret sig siden 'OS2 organisering'-rapporten (governance/styringsmodellen) blev formuleret i 2016 af Strand og Donslund?
+- 
 
+Noter fra mødet:
+- 
