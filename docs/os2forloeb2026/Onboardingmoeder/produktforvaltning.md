@@ -57,6 +57,8 @@ Produktforvalter/produktkoordinator - community manager
 - kommer nogle gange med forslag til hvad styregruppe og koordinatorsgruppe kan vælge at der skal gøres
 - samarbejde med leverandør 
 - produktforvalterne skal prøve at hive den skjulte viden fra styregruppe, koordinationsgruppe og leverandører ud af mails og ind i et åbent issue-tracker system fx i GitHub; men ikke alle forvaltere ved hvordan man bruger GitHub
+- - er dem som udfører compliance-evalueringen - sammen med Styregruppe og koordinationsgruppe!
+
 
 Styregruppe (frivillige)
 - produktstrategi 
@@ -66,12 +68,13 @@ Styregruppe (frivillige)
 - rammer 
 - skal ha max 5-6 personer for at de kan tage beslutninger
 - hvis N3-produkt, er der en repræsentant fra bestyrelsen
+- har ansvaret for at compliance-evaluering er overført 
 
 Koordinatonsgruppe: (afrapportere til styregruppe) - (frivillige)
 - produktudvikling 
 - krav
 - leverance 
-- eksekvering  
+- eksekvering
 
 Faggrupper
 - laver tests
