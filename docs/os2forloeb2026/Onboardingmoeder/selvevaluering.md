@@ -1,4 +1,4 @@
-# Indføring i selvevalueringen v. Rasmus (13. august kl.14.30-15)
+# Indføring i selvevalueringen v. Rasmus (13. august kl.14.30-15.30)
 
 Formål: forstå min hovedopgave her i efteråret 2026. 
 
