@@ -1,11 +1,11 @@
 # Annas 1:1 møder med sekretariatet
-**Formål**: Jeg lærer dig, din rolle og dine opgaver bedre at kende mhp. at vi sammen kan skabe det bedste resultat for jer og mit speciale.
+**Formål**: Jeg lærer dig, din rolle og dine opgaver bedre at kende, så vi sammen kan skabe det bedste udgangspunkt for jer, mit arbejde i OS2 og mit speciale. Jeg vil derfor også fortælle om min egen faglige profil og mine opgaver i OS2 her i efteråret.
 
-**Forventninger**: Uformel samtale, du behøver ikke forberede det store - jeg har nogle spørgsmål og ellers håber jeg bare at blive klogere på dig og dit arbejde i OS2-sekretariaet. 
+**Forventninger**: En uformel og gensidig samtale, som ikke kræver den store forberedelse. Jeg har nogle spørgsmål, men der skal også være plads til dine spørgsmål til mig. Målet er, at vi bliver klogere på hinandens arbejde og på, hvordan vi kan arbejde sammen. 
 
-**Fokus**: Faglig og holdningsmæssig profil hos sekretariaets forskellige fagpersoner. Dit daglige arbejde, din faglige profil, dit syn på OS2 og dens virke.
+**Fokus**: Faglig og holdningsmæssig profil blandt sekretariatets forskellige fagpersoner. Dit daglige arbejde, din faglige profil samt dit syn på OS2 og organisationens virke.
 
-Til sammen vil alle 1:1-møderne bidrage til en kortlægning af sekretariaets samlede faglige profil.
+Til sammen vil alle 1:1-møderne bidrage til en kortlægning af sekretariatets samlede faglige profil.
 
 *Hvis du er ok med det, vil jeg gerne **lydoptage mødet** - kun til intern brug. Så kan jeg bedre være til stede og undgå at have hovedet nede i skærmen for at skrive noter :)* 
 
