@@ -1,4 +1,4 @@
-# Produktforvaltning- og forvaltere v. Anna-Lis (9-11)
+# Produktforvaltning- og forvaltere v. Anna-Lis og Agnete (9-11)
 
 Formål: indføring i hvordan man driver produktfællesskaberne i OS2. 
 
@@ -159,7 +159,7 @@ OMKRING open source, fritvalg og digital suverænitet
 
 forskelligt hvad der kan løses ift. hvor mange timer man har købt sig til i medarbejdere
 
-**de forskellige opgaver **
+**de forskellige opgaver**
 - koordinere
 - administre medlemmer 
 - budget
@@ -172,7 +172,10 @@ forskelligt hvad der kan løses ift. hvor mange timer man har købt sig til i me
 
 Cloud Nation foundation bruger den her model:
 
-et produkts livvcyklus - *find graf om adoption af tech-produkter*
+et produkts livvcyklus - *graf om adoption af tech-produkter*
+![image](https://github.com/produktforvaltning.md) <img width="2560" height="1433" alt="Highres-scaled-1" src="https://github.com/user-attachments/assets/fddd5b11-2bb9-4223-a821-8d4ee829eaf8" />
+
+
 - mange os2-produkter cykler rundt i stagiet mellem early adopters og late adopters, hvor de bliver ved med at udvikle og genudvikle på det samme produkt - og de bliver derfor ikke tit 'færdige'
 
 forventningen til produktforvaltningen er derfor stor, fordi man skal navigere i det her 
@@ -183,7 +186,7 @@ niveauerne beslutter graden af det offentlige samarbejde:
 
 niveau 3: defineret af lovning, påtvunget og en national strategisk værdi 
 
-*find Rasmus' gamle version af niveauerne*
+Niveauerne er bedre forklaret her: https://www.os2.eu/knowledge/article/109 
 
 den enkelte produktforvalter:
 - er en akademisk medarbejder, typisk ikke en der har baggrund i projektledelse, it eller process 
