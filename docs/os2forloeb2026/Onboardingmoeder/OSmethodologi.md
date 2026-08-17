@@ -5,7 +5,8 @@ Formål: at jeg får en indføring i methodologien bag open-source og leverance 
 Spørgsmål:
 - Hvordan måler man modenheden af et produkt?
 - Hvor vil du pege mig hen, når jeg skal læse op på open-source guru'er, cases etc?
-- Hvad er en leverance model helt præcist? 
+- Hvad er en leverance model helt præcist?
+    - Når I siger leverancemodel, hvilke dele af leverancen skelner I så mellem i OS2?
 - Hvad er ideal tilstanden af et open source produkt og hvordan får man det til at passe ned i et kommunalt it-produkt?
 - Oplever du diskrepanser imellem ideel open-source praksis og hvordan OS2's produkter håndteres i deres styre/koordinationsgrupper? I så fald hvordan?
 - 
