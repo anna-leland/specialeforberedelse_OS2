@@ -27,3 +27,4 @@ Links til planer for:
 
 
 Noter fra mødet:
+- sdk - hvad er det i et it-system
