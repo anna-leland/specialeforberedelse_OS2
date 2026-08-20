@@ -3,9 +3,9 @@
 Formål: forstå Muligheder og krav til at funktioner kan automatiseres i Git. Så jeg kan vurdere hvor ting kan automatiseres i selv-evalueringen. 
 
 
-Spørgsmål:
+**Spørgsmål:**
 
-Hvordan skelner vi mellem noget, GitHub kan dokumentere, og noget GitHub kun kan give en indikator på?
+- Hvordan skelner vi mellem noget, GitHub kan dokumentere, og noget GitHub kun kan give en indikator på?
 
 For eksempel:
 
@@ -15,4 +15,3 @@ betyder vel ikke nødvendigvis:
 
 Produktet er veldokumenteret = true.
 
-vel ???
