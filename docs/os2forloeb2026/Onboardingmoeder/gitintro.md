@@ -5,6 +5,12 @@ Formål: general indføring i Git og git-processer
 Hvad er de bærende elementer?
 Hvad er arbejdsflowet for at køre en gitorganisation?
 
+OS2 - har lagt alle æg i GitHubs kurv
+- vi har ikke købt 'github' som et produkt; det kan man ikke - det er bare en samarbejdsplatform 
+- ejer ikke en 'version' af github, som vi kan kontrollere 
+- vi har ingen backups
+- hvis github går ned i morgen, så har vi måske en gammel version liggende 
+
 
 TEMPEL
 
@@ -23,6 +29,12 @@ metoder:
 
 fundament:
 - git:
+
+værdier:
+- "ting bliver her"
+- "...historik"
+- "frihed, tryghed" -> man tør lave fejl og ting er ikke endegyldige, man kan undgå at merge, det kan bare rulles tilbage 
+
 
 **git**
 - pronix unix standard
@@ -51,4 +63,22 @@ fundament:
 motivation for at tage dårlige beslutninger i software: 
 - fear uncertainty and doubt 
 
+alle produkter har forskellige github 'organisationer' repos 
+- ingen strukturer sat op for deres repos
+- modenheds-vurdering: Jan har fået oprettet niveauet under niv-1 i Sandboxen, hvor produkter kan testes inden de får en 'organisation' 
+- hvornår må man sætte titlen 'os2' på ? det kan blive open washing - for at få financiering 
 
+vi skal **ikke opfinde/innovere** nye standarder fra OS2 
+- vi skal bruge standarder der allerede findes/er skabt af FOSS organisationer som virker - så dem bør vi henvise til
+- det er virkelig uproduktivt at prøve at opfinde det selv
+
+Danmark skifter handler kun om at det ik må være amerikansk
+- men hvis man har ordenlige kontroller, så er det vel fint ? (siger Jan og AL)
+- virkelig mange produkter der har
+- vi skal bruge det som er forankret i anderkendte, internationale og selvstyrende foundations 
+
+når nogen siger at Danmark er førende inden for open source -> næh nej, se Liam Maxwell - government digital services, rock star for at bruge OS for 15 år siden 
+
+
+# eftermiddagsmødet
+data-versionsstyring vs.  betjeningsværktøjer. 
