@@ -56,7 +56,7 @@ Desuden styrkes undervisning i teknologiforståelse i folkeskolen."*
 - EU - europakommisionen, som jo burde sætte retningen: EU-OSPO-netværk, det går sååå langsomt. Man udvikler holdninger til hvordan man skal indkøbe - peger over på OS
 - de andre EU lande er mindre digitaliserede - DK er digitaliseret ind til kognlen med CPR-registeret, men har lagt alle æg i USA kurven
 - **OpenForum Europe**: prøver at influere EU, men det er svært når Big tech også er så stærke lobbyister
-- tjek **Johan Linåker**, han har fingeren på pulsen, kommer til Vildeteknololgier (Svergie er godt med og har OSPO, bedre digital strategi synes Rasmus)
+- tjek **Johan Linåker**, han har fingeren på pulsen, kommer til Vildeteknololgier (Svergie er godt med og har OSPO, bedre digital strategi synes Rasmus) -> læs Linåkers artikel om OSPO, lavet for Digistyrelsen og KL (Rasmus har sendt på email)
 - GOV.uk - har gode principper til Open Source i England, når projekter er sat i gang fra EU fx, men de kan gå i stå med mangel på opbakning som efter Brexit med mangel på EU samarbejde og AI indflydelse laver pull requests og så lukkede man alle repo's i UK
 
 ## Kan vi opnå digital suverænitet i DK?
